@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   helperWidget.weatherDay(
                       cityName: snapshot.data!.city!.name,
-                      date: utils.format('E D/M/y',
+                      date: utils.format('E d/M/y',
                           snapshot.data!.list!.first.dtTxt ?? DateTime.now()),
                       weatherState:
                           snapshot.data!.list!.first.weather!.first.main,

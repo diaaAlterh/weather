@@ -31,7 +31,7 @@ class _DetailsPageState extends State<DetailsPage> {
                   helperWidget.weatherDay(
                       cityName: snapshot.data!.city!.name,
                       date: utils.format(
-                          'E D/M/y',
+                          'E d/M/y',
                           snapshot.data!.list![widget.index].dtTxt ??
                               DateTime.now()),
                       weatherState: snapshot
