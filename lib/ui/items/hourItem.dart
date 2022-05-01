@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:weather/helper/appColors.dart';
-import 'package:weather/helper/utils.dart';
 import 'package:weather/model/weather_model.dart';
 import 'package:weather/ui/widgets/animationScaleWidget.dart';
 import 'package:weather/ui/widgets/helper_widget.dart';
+
+import '../../helper/utils.dart';
 
 class HourItem extends StatelessWidget {
 

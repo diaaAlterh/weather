@@ -1,16 +1,7 @@
 # weather
 
-A new Flutter project.
+Weather is simple application that uses Open Weather Map public API to get the weather information
+for Dubai city, This was only a test from a company
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This App is created at 1/2022 it might be old or not very professional by the time you see it but i
+can ensure you that my experiences has gone far better by now
